@@ -18,3 +18,10 @@ we can use redis as a primary db but normally we use it as a middle db for sendi
 redis is not a db but we can have back up from data when we want periodic, for example every 20 seconds store data in hard drive
 we can set it 1 second and use redis as a db.
 
+
+redis increase ping time between client and server
+redis is single core and uses just one core, it helps redis to verify requests
+so redis has interact with just one core of cpu, for example its impossible two requests come up for changing one things in redis
+
+redis is a tool for access data quickly.
+
