@@ -8,3 +8,5 @@ in-memory
 key-value
 nosql
 fast
+
+todo: how to use UI for implementation redis commands?
